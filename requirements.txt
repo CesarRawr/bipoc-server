@@ -1,6 +1,6 @@
 fastapi
 uvicorn[standard]
-tensorflow
+tensorflow==2.12.0
 Pillow
 pydantic
-protobuf==3.20.0
+protobuf==3.20.3
