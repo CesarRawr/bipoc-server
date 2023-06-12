@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+tensorflow
+os
+base64
+PIL
+io
+pydantic
