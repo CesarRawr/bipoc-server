@@ -3,6 +3,6 @@ uvicorn[standard]
 tensorflow
 os
 base64
-PIL
+Pillow
 io
 pydantic
